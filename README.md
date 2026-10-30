@@ -1,8 +1,9 @@
+<img width="1470" height="935" alt="Screenshot 2026-10-30 at 1 38 31 PM" src="https://github.com/user-attachments/assets/62c58ea7-3a2c-40ab-bb6c-ab4ae0d06cb8" />
 # Earthquake Live Map
 
 A beginner-friendly Python desktop app that pulls the last 24 hours of earthquakes from the public USGS feed and plots them on a world map. Stronger quakes get bigger circles, and the map refreshes itself every minute.
 
-<!-- Add a screenshot or GIF: upload it to the repo and use ![Screenshot](screenshot.png) -->
+![Screenshot](screenshot.png)
 
 ## Features
 - Live data from the USGS earthquake feed (no API key needed)
